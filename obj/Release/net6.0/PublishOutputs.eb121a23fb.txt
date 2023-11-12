@@ -1,0 +1,7 @@
+C:\Users\Legion 5\AppData\Local\Temp\6c5a1f1c-c3e3-47c2-8e15-a8f861da99b3\AWSApplication.exe
+C:\Users\Legion 5\AppData\Local\Temp\6c5a1f1c-c3e3-47c2-8e15-a8f861da99b3\appsettings.Development.json
+C:\Users\Legion 5\AppData\Local\Temp\6c5a1f1c-c3e3-47c2-8e15-a8f861da99b3\appsettings.json
+C:\Users\Legion 5\AppData\Local\Temp\6c5a1f1c-c3e3-47c2-8e15-a8f861da99b3\AWSApplication.dll
+C:\Users\Legion 5\AppData\Local\Temp\6c5a1f1c-c3e3-47c2-8e15-a8f861da99b3\AWSApplication.deps.json
+C:\Users\Legion 5\AppData\Local\Temp\6c5a1f1c-c3e3-47c2-8e15-a8f861da99b3\AWSApplication.runtimeconfig.json
+C:\Users\Legion 5\AppData\Local\Temp\6c5a1f1c-c3e3-47c2-8e15-a8f861da99b3\AWSApplication.pdb
